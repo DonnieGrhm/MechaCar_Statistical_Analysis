@@ -20,8 +20,9 @@ available in this dataset.
 ## Summary Statistics on Suspension Coils
 
 The current manufacturing data does not meet the design specification for all manufacturing lots individually due to a variance of 170 PSI 
-in Lot 3. Now in total the variance is within specification at 62 PSI. But this is only this high because Lot 3 is causing a left skew if this
-data was charted. The large value is being counteracted by the significantly low variances in Lot 1 and 2.
+in Lot 3, the maximum allowed variance is 100 PSI. Now in total the variance is within specification at 62 PSI. But this is only this high 
+because Lot 3 is causing a left skew if this data was charted. The large value is being counteracted by the significantly low variances in 
+Lot 1 and 2.
 
 !["Total Summary of PSI"](https://github.com/DonnieGrhm/MechaCar_Statistical_Analysis/blob/main/Total_Summary.PNG?raw=true)
 
