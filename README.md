@@ -8,7 +8,7 @@ which variables and production limits may be causing any inconsistencies in the 
 ## Linear Regression to Predict MPG
 
 After reviewing the coefficients of the linear module. It is apparent that the vehicle length and ground clearance provided a non-random
-amont of variance to the mpg values in the dataset. With dimunitive probability values in the multiple linear module extending beyond the 
+amount of variance to the mpg values in the dataset. With dimunitive probability values in the multiple linear module extending beyond the 
 millionths, these variances are statistically unlikely and unusual. The slope of the linear module is not considered to be zero, due to the
 r value being below .05, we have sufficient statistical evidence to reject the null hypothesis. The linear module predicts the mpg of MechaCar
 prototypes with 71% accuracy, although this may be just may be one of many causes to look deeper into other performance measurements not made
